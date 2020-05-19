@@ -196,7 +196,7 @@ sound5 {
 }
 
 .sound6 {
-    animation: color02 2s infinite;
+    animation: color02 2s infinite, scaleintro 4s infinite;
 }
 
 @keyframes color02 {
