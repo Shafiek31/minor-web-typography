@@ -7,13 +7,13 @@ Web Typography
 Week01
 Het ontvangen van de debriefing met daarbij de juiste materialen was het tijd om een begin te maken aan de opdracht. De eerste week was ik mezelf aan het verdiepen wat eigenlijk "close captions" zijn. Daarnaast zocht ik zelf naar vele voorbeelden om een beter beeld te krijgen.
 
-Als font heb ik er voor gekozen om "brenner" te gebruiken omdat dit uitgebreid is en bepaalde fonts kunnen verschillende emoties naar voren halen. Daarnaast leek het mij interessant om aan een vaste font aan te houden. Zulke eisen zou ik later ook krijgen op het werkgebied, dus eigenlijk de knoop doorhakken.
+Als font heb ik er voor gekozen om "brenner" te gebruiken omdat dit uitgebreid is en bepaalde fonts kunnen verschillende emoties naar voren halen. Daarnaast leek het mij interessant om aan een vaste font aan te houden. Zulke eisen zou ik later ook krijgen op het werkgebied, dus de knoop doorhakken.
 
-In deze week ben ik gaan spelen met het fragment. Ik heb van te voren eerst gekeken of de codes wel juist waren en of er niks ontbrak. Deze codes heb ik bijgewerkt om een compleet fragment te krijgen. 
+In deze week ben ik gaan experimenteren met het fragment. Ik heb van te voren eerst gekeken of de codes wel juist waren en of er niks ontbrak. Deze codes heb ik bijgewerkt om een compleet fragment te krijgen. 
 
-Beide screenshot hieronder wilde ik de code verkennen en spelen met de typografie.
+Beide screenshot hieronder wilde ik de code verkennen en experimenteren met de typografie.
 
-Onderbouwing vormgeving: Voor het fragment heb ik geëxperimenteerd op verschillende lettertypes van Brenner en daar kwam "Brenner Mono Regular" het meest naar voren. De keuze op dit lettertype is door een brede spatiëring en strakke schreef-hoeken die passen bij het robot/scanning/computer gevoel. Aangezien het fragment hier ook mee te maken heeft past het bij elkaar.
+Onderbouwing vormgeving: Voor het fragment heb ik geëxperimenteerd op verschillende lettertypes van Brenner en daar kwam "Brenner Mono Regular" het meest naar voren. De keuze op dit lettertype is door een brede spatiëring en strakke schreef-hoeken die passen bij de robot/scanning/computer sfeer. Aangezien het fragment hier ook mee te maken heeft past het bij elkaar.
 
 Bepaalde woorden in het fragment hebben de kleur rood om het gevoel van spanning naar voren te brengen. Daarnaast heb ik gespeeld met dikte, achtergrond, spatiëring van de woorden vanwege het gevoel. Bij het woord "white" is er een zwarte achtergrond om het woord te verduidelijken. Bij het woord "Dark" is dat andersom. De woorden hadden meer invloed op wat er stond i.p.v. wat er daadwerkelijk aan de hand was in het fragment. 
 
@@ -25,8 +25,7 @@ De eerste week ben ik zelf gaan experimenteren in de code en het stylen.
 
 ---------------------
 
-Week02
-Ik ben verder gegaan met experimenteren en stylen. Ik kwam later achter dat de achtergrond ook veel te maken heeft met de emoties van het fragment. Tijdens het experimenteren heb ik gekozen om alle lettertypes te stylen. De stylen staan hieronder verwerkt. 
+Week02: Ik ben verder gegaan met experimenteren en stylen. Ik kwam later achter dat de achtergrond ook veel te maken heeft met de emoties van het fragment. Tijdens het experimenteren heb ik gekozen om alle lettertypes te stylen. De stylen staan hieronder verwerkt. 
 
 <img width="1680" alt="Schermafbeelding 2020-05-14 om 2 25 53 PM" src="https://user-images.githubusercontent.com/43640566/81934238-eb42cc80-95ee-11ea-908f-b98f17263743.png">
 <img width="1680" alt="Schermafbeelding 2020-05-14 om 2 26 07 PM" src="https://user-images.githubusercontent.com/43640566/81934243-ee3dbd00-95ee-11ea-81bb-dca34ada1db3.png">
@@ -55,7 +54,7 @@ Minpunten:
 - Dik-gedrukt maakt het moeilijk leesbaar. 
 - Beeld is niet duidelijk bij scalen.
 - Probeer meer met achtergrond sfeer te werken.
-- De tekst staan niet in het beeld plaatsen. Het moet meer in het beeld komen voor duidelijkheid. 
+- De tekst staan niet in het beeld. Het moet meer in het beeld komen voor duidelijkheid. 
 
 Conclusie: Ik moet beter kijken naar de teksten en daarbij de juiste kleur-effecten. Daarnaast bepalen welke teksten eventueel een effect moet hebben om het duidelijk te maken. Als laatst spelen met de achtergrond om de sfeer te bepalen.
 
@@ -81,24 +80,24 @@ Elk student kreeg 7 minuten de kans om te testen met Marie.
 Tijdens deze sessie heb ik zowel plus en minpunten opgevangen.
 
 Pluspunten:
-+ Beeld uitrekken vind ze leuk.
++ Beeld uitrekken vond ze leuk.
 + Bewegingen van beeld. 
 + Typografie vond zij erg goed omdat het past bij het fragment.
 
 Minpunten:
 - De kleuren van de hartslag klopt niet.
-- Meer focus op het beeld en niet op het sfeer.
+- Meer focus op het beeld en niet op het sfeer(kleur).
 - De hartslag-effecten maken het moeilijk.
 - Beschrijvingen bijvoegen.
 
 Conclusie: Experimenteren op beeld is van belang. Minder experimenteren met kleur omdat die moeilijke emoties naar boven halen. De focus leg ik op de styling van het beeld en de sfeer.
-
 ----------------------------------
+
 Onderbouwing resultaat
 
 Compositie:
 - Beeld: Het fragment staat gecentreerd op de pagina zodat de gebruiker daar de focus op kan leggen.
-- In het fragment komen meerdere partijen aan bod die spreken. Daarbij heb ik de hoofd-personage linkslijnend verwerkt in het beeld omdat die de belangrijkste is en voor de gebruiker makkelijk is om van links naar rechts te lezen. Daarnaast heeft de hoofd-personage teksten een zwarte achtergrond en de andere niet om een extra versterkte onderscheid te hebben.
+- In het fragment komen meerdere partijen aan bod die spreken. Daarbij heb ik de hoofd-personage linkslijnend verwerkt in het beeld omdat die de belangrijkste is en voor de gebruiker makkelijk is om van links naar rechts te lezen. Daarnaast heeft de hoofd-personage ondertiteling een zwarte achtergrond en de andere niet om een extra versterkte onderscheid te hebben.
 - De overige partijen staan rechts in het beeld, zonder achtergrond kleur.
 - De geluids-beschrijving staat gecentreerd onder het fragment om een beter onderscheid te hebben.
 <img width="1680" alt="Schermafbeelding 2020-05-25 om 6 46 51 PM" src="https://user-images.githubusercontent.com/43640566/82831331-71e18e80-9eb8-11ea-947a-0859c1023b54.png">
@@ -106,7 +105,7 @@ Compositie:
 Tekst:
 Voor het fragment heb ik geëxperimenteerd op verschillende lettertypes van Brenner en daar kwam "Brenner Mono Regular" het meest naar voren. En daar ben ik ook bij gebleven. Uiteindelijk heb ik de knoop door gehakt. De keuze op dit lettertype is door een brede spatiëring en strakke schreef-hoeken die passen bij het robot/scanning/computer gevoel.
 
-Tekst-variaties: Het fragment bestaat uit gevarieerde woorden die bepaald worden door de emotie/sfeer. Ik heb het volgende gedaan:
+Tekst-variaties: Het fragment bestaat uit gevarieërde woorden die bepaald worden door de emotie/sfeer. Ik heb het volgende gedaan:
 - Onderkast letters bij een neutrale/rustig gesprek.
 - Kapitale letters bij het harder uitspreken van woorden. De kapitale letters worden ook vergroot om het te versterken.
 - Italic voor een versterkte beschrijving.
@@ -116,7 +115,7 @@ Tekst-variaties: Het fragment bestaat uit gevarieerde woorden die bepaald worden
 Kleuren bepalen de sfeer.
 In het fragment komen kleuren in teksten en op de achtergrond om de juiste emotie/sfeer te tonen. Ik heb het volgende gedaan:
 - Over het algemeen heb ik de kleuren zwart en rood gebruikt omdat het fragment serieus, mysterieus en thriller overkomt.
-- Teksten: De intro van het fragment heb ik woorden versterkt door de kleur rood om aanwijzingen te geven waar het fragment over gaat om duidelijkheid. In het midden en eind komt de rode kleur niet meer in voor in de letters omdat aan het begin de belangrijkste informatie staat.
+- Teksten: De intro van het fragment heb ik woorden versterkt door de kleur rood om aanwijzingen te geven waar het fragment over gaat voor de duidelijkheid. In het midden en eind komt de rode kleur niet meer in voor omdat aan het begin de belangrijkste informatie staat toegelicht die de gebruiker niet kan missen.
 - Beschrijving: Er is ook een beschrijving aanwezig en die heeft een rode kleur als lettertype met een rode schaduw zodat de gebruiker een duidelijke onderscheid kan hebben tussen de personage tekst en beschrijving. 
 - Het beeld/effecten staan om het fragment heen en bevatten de rode kleur om de emotie/sfeer te versterken.
 <img width="1183" alt="Schermafbeelding 2020-05-25 om 6 17 28 PM" src="https://user-images.githubusercontent.com/43640566/82829726-42308780-9eb4-11ea-94c9-cb6e7c7188e4.png">
@@ -145,3 +144,4 @@ Exclusive Design
 
 Bronvermelding:
 - Bestanden komen van Vasilis.
+- Screenshots in ReadMe: Eigen bron.
