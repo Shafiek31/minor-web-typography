@@ -7,7 +7,7 @@ Web Typography
 Week01
 Het ontvangen van de debriefing met daarbij de juiste materialen was het tijd om een begin te maken aan de opdracht. De eerste week was ik mezelf aan het verdiepen wat eigenlijk "close captions" zijn. Daarnaast zocht ik zelf naar vele voorbeelden om een beter beeld te krijgen.
 
-Als font heb ik er voor gekozen om "brenner" te gebruiken omdat dit uitgebreid is en bepaalde fonts kunnen verschillende emoties naar voren halen. Daarnaast leek het mij interessant om aan een vaste font aan te houden. Zulke eisen zou ik later ook krijgen op het werkgebied.
+Als font heb ik er voor gekozen om "brenner" te gebruiken omdat dit uitgebreid is en bepaalde fonts kunnen verschillende emoties naar voren halen. Daarnaast leek het mij interessant om aan een vaste font aan te houden. Zulke eisen zou ik later ook krijgen op het werkgebied, dus eigenlijk de knoop doorhakken.
 
 In deze week ben ik gaan spelen met het fragment. Ik heb van te voren eerst gekeken of de codes wel juist waren en of er niks ontbrak. Deze codes heb ik bijgewerkt om een compleet fragment te krijgen. 
 
@@ -98,8 +98,8 @@ Onderbouwing resultaat
 
 Compositie:
 - Beeld: Het fragment staat gecentreerd op de pagina zodat de gebruiker daar de focus op kan leggen.
-- In het fragment komen meerdere partijen aan bod die spreken. Daarbij heb ik de hoofd-personage linkslijnend verwerkt in het beeld omdat die de belangrijkste is en voor de gebruiker makkelijk is om van links naar rechts te lezen. Daarnaast heeft de hoofd-personage teksten een zwarte achtergrond en de overige niet om een extra onderscheid te hebben.
-- De overige partijen staan rechts in het beeld.
+- In het fragment komen meerdere partijen aan bod die spreken. Daarbij heb ik de hoofd-personage linkslijnend verwerkt in het beeld omdat die de belangrijkste is en voor de gebruiker makkelijk is om van links naar rechts te lezen. Daarnaast heeft de hoofd-personage teksten een zwarte achtergrond en de andere niet om een extra versterkte onderscheid te hebben.
+- De overige partijen staan rechts in het beeld, zonder achtergrond kleur.
 - De geluids-beschrijving staat gecentreerd onder het fragment om een beter onderscheid te hebben.
 <img width="1680" alt="Schermafbeelding 2020-05-25 om 6 46 51 PM" src="https://user-images.githubusercontent.com/43640566/82831331-71e18e80-9eb8-11ea-947a-0859c1023b54.png">
 
@@ -107,12 +107,11 @@ Tekst:
 Voor het fragment heb ik geëxperimenteerd op verschillende lettertypes van Brenner en daar kwam "Brenner Mono Regular" het meest naar voren. En daar ben ik ook bij gebleven. Uiteindelijk heb ik de knoop door gehakt. De keuze op dit lettertype is door een brede spatiëring en strakke schreef-hoeken die passen bij het robot/scanning/computer gevoel.
 
 Tekst-variaties: Het fragment bestaat uit gevarieerde woorden die bepaald worden door de emotie/sfeer. Ik heb het volgende gedaan:
-- Zachte onderkast letters bij een neutrale/rustig gesprek.
+- Onderkast letters bij een neutrale/rustig gesprek.
 - Kapitale letters bij het harder uitspreken van woorden. De kapitale letters worden ook vergroot om het te versterken.
 - Italic voor een versterkte beschrijving.
 - Scheldwoorden: Woorden versterkt door kleuren. Zoals het woord "Fuck" komt erin voor en het is een scheldwoord maar de uitspraak is heel zacht. Dus er kan gebruik gemaakt worden van een dominante kleur met onderkast als letters.
 <img width="950" alt="Schermafbeelding 2020-05-25 om 6 48 40 PM" src="https://user-images.githubusercontent.com/43640566/82831585-1b288480-9eb9-11ea-9482-97902939122a.png">
-
 
 Kleuren bepalen de sfeer.
 In het fragment komen kleuren in teksten en op de achtergrond om de juiste emotie/sfeer te tonen. Ik heb het volgende gedaan:
@@ -130,7 +129,6 @@ Het beeld heeft vele effecten zoals vergroten, verkleinen, draaien en spanning. 
 - Spanning komt voor wanneer de hoofd-persoon een gesprek heeft met de robot. Hierbij ontstaat er spanning en als effect heb ik een rode achergrond effect verwerkt die knippert van langzaam naar snel.
 <img width="1680" alt="Schermafbeelding 2020-05-25 om 6 47 13 PM" src="https://user-images.githubusercontent.com/43640566/82831552-ffbd7980-9eb8-11ea-8e21-4b0a11cc8531.png">
 
-
 ---------------------------------
 
 Exclusive Design
@@ -142,3 +140,8 @@ Exclusive Design
 - Prioritise identity: Het ontwerpen 'met' mensen kunnen inzichten naar voren halen die jij als ontwerper niet kunt zien. Door deze te combineren ontstaat er een gericht ontwerp. Afgelopen weken was dat bij het feedback geven dat studenten de feedback van andere kon combineren met eigen ontwerp. 
 
 - Add nonense: Door 'onzin' toe te voegen aan het ontwerp komen er inzichten die je zelf niet eens had kunnen bedenken. Ou of the box denken kan daar een voorbeeld voor zijn, zover mogelijk ontwerpen om inzichten te ontvangen van de gebruiker. Afgelopen weken was dat door het ontwerp meer inhoud te geven. Inhoud als in grotere letters, kleuren, dynamische uitstraling, extreme bewegingen etc. Dat had ik bij het ontwerpen van apart de kleuren van de sfeer en bewegingen in het beeld. Uiteindelijk bleek dat de kleur van de sfeer en bewegingen met elkaar kon combineren. 
+
+--------------------------------
+
+Bronvermelding:
+- Bestanden komen van Vasilis.
