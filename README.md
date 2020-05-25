@@ -98,9 +98,10 @@ Onderbouwing resultaat
 
 Compositie:
 - Beeld: Het fragment staat gecentreerd op de pagina zodat de gebruiker daar de focus op kan leggen.
-- In het fragment komen meerdere partijen aan bod die spreken. Daarbij heb ik de hoofd-personage linkslijnend verwerkt in het beeld omdat die de belangrijkste is en voor de gebruiker makkelijk is om van links naar rechts te lezen.
+- In het fragment komen meerdere partijen aan bod die spreken. Daarbij heb ik de hoofd-personage linkslijnend verwerkt in het beeld omdat die de belangrijkste is en voor de gebruiker makkelijk is om van links naar rechts te lezen. Daarnaast heeft de hoofd-personage teksten een zwarte achtergrond en de overige niet om een extra onderscheid te hebben.
 - De overige partijen staan rechts in het beeld.
 - De geluids-beschrijving staat gecentreerd onder het fragment om een beter onderscheid te hebben.
+<img width="1680" alt="Schermafbeelding 2020-05-25 om 6 46 51 PM" src="https://user-images.githubusercontent.com/43640566/82831331-71e18e80-9eb8-11ea-947a-0859c1023b54.png">
 
 Tekst:
 Voor het fragment heb ik geëxperimenteerd op verschillende lettertypes van Brenner en daar kwam "Brenner Mono Regular" het meest naar voren. En daar ben ik ook bij gebleven. Uiteindelijk heb ik de knoop door gehakt. De keuze op dit lettertype is door een brede spatiëring en strakke schreef-hoeken die passen bij het robot/scanning/computer gevoel.
@@ -109,13 +110,17 @@ Tekst-variaties: Het fragment bestaat uit gevarieerde woorden die bepaald worden
 - Zachte onderkast letters bij een neutrale/rustig gesprek.
 - Kapitale letters bij het harder uitspreken van woorden. De kapitale letters worden ook vergroot om het te versterken.
 - Italic voor een versterkte beschrijving.
+- Scheldwoorden: Woorden versterkt door kleuren. Zoals het woord "Fuck" komt erin voor en het is een scheldwoord maar de uitspraak is heel zacht. Dus er kan gebruik gemaakt worden van een dominante kleur met onderkast als letters.
+<img width="950" alt="Schermafbeelding 2020-05-25 om 6 48 40 PM" src="https://user-images.githubusercontent.com/43640566/82831585-1b288480-9eb9-11ea-9482-97902939122a.png">
 
-Kleuren:
+
+Kleuren bepalen de sfeer.
 In het fragment komen kleuren in teksten en op de achtergrond om de juiste emotie/sfeer te tonen. Ik heb het volgende gedaan:
 - Over het algemeen heb ik de kleuren zwart en rood gebruikt omdat het fragment serieus, mysterieus en thriller overkomt.
 - Teksten: De intro van het fragment heb ik woorden versterkt door de kleur rood om aanwijzingen te geven waar het fragment over gaat om duidelijkheid. In het midden en eind komt de rode kleur niet meer in voor in de letters omdat aan het begin de belangrijkste informatie staat.
 - Beschrijving: Er is ook een beschrijving aanwezig en die heeft een rode kleur als lettertype met een rode schaduw zodat de gebruiker een duidelijke onderscheid kan hebben tussen de personage tekst en beschrijving. 
 - Het beeld/effecten staan om het fragment heen en bevatten de rode kleur om de emotie/sfeer te versterken.
+<img width="1183" alt="Schermafbeelding 2020-05-25 om 6 17 28 PM" src="https://user-images.githubusercontent.com/43640566/82829726-42308780-9eb4-11ea-94c9-cb6e7c7188e4.png">
 
 Effecten in het fragment
 Het beeld heeft vele effecten zoals vergroten, verkleinen, draaien en spanning. Deze effecten versterken de sfeer.
@@ -123,8 +128,8 @@ Het beeld heeft vele effecten zoals vergroten, verkleinen, draaien en spanning. 
 - Verkleining: Wanneer de gebruiker zich gekleineerd voelt.
 - Draaien: Bij het woord "spin" om het letterlijk op te vatten. 
 - Spanning komt voor wanneer de hoofd-persoon een gesprek heeft met de robot. Hierbij ontstaat er spanning en als effect heb ik een rode achergrond effect verwerkt die knippert van langzaam naar snel.
+<img width="1680" alt="Schermafbeelding 2020-05-25 om 6 47 13 PM" src="https://user-images.githubusercontent.com/43640566/82831552-ffbd7980-9eb8-11ea-8e21-4b0a11cc8531.png">
 
-<img width="1183" alt="Schermafbeelding 2020-05-25 om 6 17 28 PM" src="https://user-images.githubusercontent.com/43640566/82829726-42308780-9eb4-11ea-94c9-cb6e7c7188e4.png">
 
 ---------------------------------
 
