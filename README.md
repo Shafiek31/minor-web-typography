@@ -13,7 +13,9 @@ In deze week ben ik gaan spelen met het fragment. Ik heb van te voren eerst geke
 
 Beide screenshot hieronder wilde ik de code verkennen en spelen met de typografie.
 
-Toelichting vormgeving: Bepaalde woorden in het fragment hebben de kleur rood om het gevoel van spanning naar voren te brengen. Daarnaast heb ik gespeeld met dikte, achtergrond, spatiëring van de woorden om het gevoel. Bij het woord "white" is er een zwarte achtergrond om het woord te verduidelijken. Bij het woord "Dark" is dat andersom. De eerste week was het experimenteren van css.
+Onderbouwing vormgeving: Voor het fragment heb ik geëxperimenteerd op verschillende lettertypes van Brenner en daar kwam "Brenner Mono Regular" het meest naar voren. De keuze op dit lettertype is door een brede spatiëring en strakke schreef-hoeken die passen bij het robot/scanning/computer gevoel. Aangezien het fragment hier ook mee te maken heeft past het bij elkaar.
+
+Bepaalde woorden in het fragment hebben de kleur rood om het gevoel van spanning naar voren te brengen. Daarnaast heb ik gespeeld met dikte, achtergrond, spatiëring van de woorden vanwege het gevoel. Bij het woord "white" is er een zwarte achtergrond om het woord te verduidelijken. Bij het woord "Dark" is dat andersom. De woorden hadden meer invloed op wat er stond i.p.v. wat er daadwerkelijk aan de hand was in het fragment. 
 
 <img width="617" alt="Schermafbeelding 2020-05-14 om 2 06 01 PM" src="https://user-images.githubusercontent.com/43640566/81932878-c0577900-95ec-11ea-9e02-5d57bcdd5eaf.png">
 
@@ -29,8 +31,10 @@ Ik ben verder gegaan met experimenteren en stylen. Ik kwam later achter dat de a
 <img width="1680" alt="Schermafbeelding 2020-05-14 om 2 25 53 PM" src="https://user-images.githubusercontent.com/43640566/81934238-eb42cc80-95ee-11ea-908f-b98f17263743.png">
 <img width="1680" alt="Schermafbeelding 2020-05-14 om 2 26 07 PM" src="https://user-images.githubusercontent.com/43640566/81934243-ee3dbd00-95ee-11ea-81bb-dca34ada1db3.png">
 
+Onderbouwing vormgeving: De styling van de typografie heb ik gelaten als de week voorgaand. Dus het gevoel overbrengen door het stylen van achtergrond, kleur, spatiëring en diktes. Hierbij had ik nog niet gekeken of het wel te maken had met het fragment. In mijn opzicht zou het de woorden versterken voor duidelijkheid om het fragment te begrijpen. Daarnaast heb ik het beeld op bepaalde momenten vergroot voor de spanning waarbij de hoofd-personage aan het praten is met de robot.
+
 Feedback 01 groep - 13 mei 2020 - Jamil, Martijn, Omar
-Samen met een groep gaven we elkaar feedback om hierop te intereren. Als feedback kreeg ik om bepaalde lettertypes te vergroten om de emoties meer naar voren te brengen.
+Samen met een groep gaven we elkaar feedback om hierop te intereren. Als feedback kreeg ik om bepaalde lettertypes te vergroten om de emoties meer naar voren te brengen. Deze emoties kwamen niet zo ver naar voren.
 
 Feedback 01 Vasilis - 14 mei 2020
 Het fragment liet ik zien tijdens de feedback-sessie met Vasilis. Hij gaf aan dat ik veel deed met typografie en kleuren om bepaalde woorden harder aan te spreken. Maar was dat wel nodig? Wanneer zijn zulke stylen nodig? Helpt het om de inhoud te versterken voor de gebruiker?
@@ -57,9 +61,13 @@ Conclusie: Ik moet beter kijken naar de teksten en daarbij de juiste kleur-effec
 
 -------------------------
 
-Week03
+Week 03: In week 3 was de tweede feedback met de docent en Marie. In deze week heb ik de feedback van week 2 opgenomen en ben daarmee gegaan. Het gaat om het stylen van de woorden, het beeld en achtergrond. Hieronder staan afbeeldingen waarbij ik ging experimenteren op de kleur en beeld die emoties naar boven halen.
 
-In week 3 was de tweede feedback met de docent en Marie. In deze week heb ik de feedback van week 2 opgenomen en ben daarmee gegaan. Het gaat om het stylen van de woorden, het beeld en achtergrond. Hieronder staan afbeeldingen waarbij ik ging experimenteren op de kleur en beeld die emoties naar boven halen.
+Onderbouwing vormgeving: Aan de hand de feedback heb ik styling van bepaalde woorden weggehaald omdat het niet bij het fragments-gevoel past. Ik heb alleen aan het begin kern-woorden een rode kleur gegeven zodat de gebruiker weet waar het verhaal over gaat. Vooral aan het begin is dat van belang omdat het een intro is waar belangrijke gebeurtenissen worden toegelicht. Na de intro komen er geen kleuren meer in het fragment.
+
+Op bepaalde momenten komt het fragment ingezoomd in beeld vanwege de gebeurtenis. Bijvoorbeeld dat de hoofd-personage naar de locatie gaat. Deze functie geeft aan dat het fragment op een ander locatie is. Of tijdens het praten tussen de hoofd-persoon en robot ontstaat er een spanning waarbij het beeld ook is ingezoomd.
+
+Om het fragment heen heb ik kleuren verwerkt die de sfeer versterkt om in het fragment te leven. Het fragment is spannend, dus had ik besloten om hartslag effect op de sfeer te zetten.
 
 <img width="1663" alt="Schermafbeelding 2020-05-22 om 11 40 44 AM" src="https://user-images.githubusercontent.com/43640566/82654514-26fa1980-9c21-11ea-951c-eb7e22285ae7.png">
 
@@ -80,11 +88,10 @@ Pluspunten:
 Minpunten:
 - De kleuren van de hartslag klopt niet.
 - Meer focus op het beeld en niet op het sfeer.
-- De flitskleuren maken het moeilijk.
+- De hartslag-effecten maken het moeilijk.
 - Beschrijvingen bijvoegen.
-- Marie vertelde: Als zij het fragment met twee personen kijk dan is het zo dat bij bepaalde kleuren de persoon naast haar, haar moet aantikken. In de zin "let op! Dit is een spannend stuk". 
 
-Conclusie: Experimenteren op beeld is van belang. Minder experimenteren met kleur omdat die moeilijke emoties naar boven halen. Ik leg meer de focus op beeld dan kleur. 
+Conclusie: Experimenteren op beeld is van belang. Minder experimenteren met kleur omdat die moeilijke emoties naar boven halen. De focus leg ik op de styling van het beeld en de sfeer.
 
 ---------------------------------
 
