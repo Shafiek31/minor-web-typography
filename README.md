@@ -95,3 +95,12 @@ Conclusie: Experimenteren op beeld is van belang. Minder experimenteren met kleu
 
 ---------------------------------
 
+Exclusive Design
+
+- Study Situation: Om de situatie te verkennen van de gebruiker met een beperkt vermogen is individueel bestuderen van belang. Vanuit een individuele (1 op 1) kom je als ontwerper meer te weten over de context. En dat was ook de afgelopen week bij Marie. Door elk student 1 op 1 feedback te geven, staat de focus op één doelgroep/gebruiker en kun je meer achterkomen om het het specifiek voor haar te maken.
+
+- Ignore conventions: De doelgroep met een beperkt vermogen zijn over het algemeen niet in staat op standaard conventies te begrijpen. Door het bestuderen van de situatie kunnen ontwerpen de conventies overwegen. Afgelopen week was dat bij het bekijken van het fragment, dat Marie dat niet kan horen. Dus zij kan geen geluid aan doen om het fragment te begrijpen. Dus conventies overwegen naar een ander ontwerp. Daarbij geldt ook voor bewegende beelden die een emotie kunnen geven, dat betekent niet dat het voor haar ook een emotie overbrengt.
+
+- Prioritise identity: Het ontwerpen 'met' mensen kunnen inzichten naar voren halen die jij als ontwerper niet kunt zien. Door deze te combineren ontstaat er een gericht ontwerp. Afgelopen weken was dat bij het feedback geven dat studenten de feedback van andere kon combineren met eigen ontwerp. 
+
+- Add nonense: Door 'onzin' toe te voegen aan het ontwerp komen er inzichten die je zelf niet eens had kunnen bedenken. Ou of the box denken kan daar een voorbeeld voor zijn, zover mogelijk ontwerpen om inzichten te ontvangen van de gebruiker. Afgelopen weken was dat door het ontwerp meer inhoud te geven. Inhoud als in grotere letters, kleuren, dynamische uitstraling, extreme bewegingen etc. Dat had ik bij het ontwerpen van apart de kleuren van de sfeer en bewegingen in het beeld. Uiteindelijk bleek dat de kleur van de sfeer en bewegingen met elkaar kon combineren. 
