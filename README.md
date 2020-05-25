@@ -139,7 +139,7 @@ Exclusive Design
 
 - Prioritise identity: Het ontwerpen 'met' mensen kunnen inzichten naar voren halen die jij als ontwerper niet kunt zien. Door deze te combineren ontstaat er een gericht ontwerp. Afgelopen weken was dat bij het feedback geven dat studenten de feedback van andere kon combineren met eigen ontwerp. 
 
-- Add nonense: Door 'onzin' toe te voegen aan het ontwerp komen er inzichten die je zelf niet eens had kunnen bedenken. Ou of the box denken kan daar een voorbeeld voor zijn, zover mogelijk ontwerpen om inzichten te ontvangen van de gebruiker. Afgelopen weken was dat door het ontwerp meer inhoud te geven. Inhoud als in grotere letters, kleuren, dynamische uitstraling, extreme bewegingen etc. Dat had ik bij het ontwerpen van apart de kleuren van de sfeer en bewegingen in het beeld. Uiteindelijk bleek dat de kleur van de sfeer en bewegingen met elkaar kon combineren. 
+- Add nonense: Door 'onzin' toe te voegen aan het ontwerp komen er inzichten die je zelf niet eens had kunnen bedenken. Out of the box denken kan daar een voorbeeld voor zijn, zover mogelijk ontwerpen om inzichten te ontvangen van de gebruiker. Afgelopen weken was dat door het ontwerp meer inhoud te geven. Inhoud als in grotere letters, kleuren, dynamische uitstraling, extreme bewegingen etc. Dat had ik bij het ontwerpen van apart de kleuren van de sfeer en bewegingen in het beeld. Uiteindelijk bleek dat de kleur van de sfeer en bewegingen met elkaar kon combineren. 
 
 --------------------------------
 
