@@ -1,4 +1,8 @@
-# minor3-web-typography
+# minor3-web-typography | Shafiek
+
+Shafiek Ramzankhan
+Minor Visual Interface Design
+Web Typography
  
 Week01
 Het ontvangen van de debriefing met daarbij de juiste materialen was het tijd om een begin te maken aan de opdracht. De eerste week was ik mezelf aan het verdiepen wat eigenlijk "close captions" zijn. Daarnaast zocht ik zelf naar vele voorbeelden om een beter beeld te krijgen.
@@ -8,6 +12,8 @@ Als font heb ik er voor gekozen om "brenner" te gebruiken omdat dit uitgebreid i
 In deze week ben ik gaan spelen met het fragment. Ik heb van te voren eerst gekeken of de codes wel juist waren en of er niks ontbrak. Deze codes heb ik bijgewerkt om een compleet fragment te krijgen. 
 
 Beide screenshot hieronder wilde ik de code verkennen en spelen met de typografie.
+
+Toelichting vormgeving: Bepaalde woorden in het fragment hebben de kleur rood om het gevoel van spanning naar voren te brengen. Daarnaast heb ik gespeeld met dikte, achtergrond, spatiëring van de woorden om het gevoel. Bij het woord "white" is er een zwarte achtergrond om het woord te verduidelijken. Bij het woord "Dark" is dat andersom. De eerste week was het experimenteren van css.
 
 <img width="617" alt="Schermafbeelding 2020-05-14 om 2 06 01 PM" src="https://user-images.githubusercontent.com/43640566/81932878-c0577900-95ec-11ea-9e02-5d57bcdd5eaf.png">
 
