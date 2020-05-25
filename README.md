@@ -93,6 +93,31 @@ Minpunten:
 
 Conclusie: Experimenteren op beeld is van belang. Minder experimenteren met kleur omdat die moeilijke emoties naar boven halen. De focus leg ik op de styling van het beeld en de sfeer.
 
+----------------------------------
+Onderbouwing resultaat
+
+Compositie:
+- Beeld: Het fragment staat gecentreerd op de pagina zodat de gebruiker daar de focus op kan hebben.
+- In het fragment komen meerdere partijen aan bod die praten. Daarbij heb ik de hoofd-personage linkslijnend verwerkt in het beeld omdat die de belangrijkste is en voor de gebruiker is het makkelijk van links naar rechts te lezen.
+- De overige partijen staan rechts in het beeld.
+- De geluids-beschrijving staat gecentreerd onder het fragment om een beter onderscheid te hebben.
+
+Tekst:
+Voor het fragment heb ik geëxperimenteerd op verschillende lettertypes van Brenner en daar kwam "Brenner Mono Regular" het meest naar voren. En daar ben ik ook bij gebleven. Uiteindelijk heb ik de knoop door gehakt. De keuze op dit lettertype is door een brede spatiëring en strakke schreef-hoeken die passen bij het robot/scanning/computer gevoel.
+
+Tekst-variaties: Het fragment bestaat uit gevarieerde woorden die bepaald worden door de emotie/sfeer. Ik heb het volgende gedaan:
+- Zachte onderkast letters bij een neutrale sfeer.
+- Kapitale letters bij het harder uitspreken van woorden. De kapitale letters worden ook vergroot om het te versterken.
+- Italic voor versterkte beschrijving.
+
+Kleuren:
+In het fragment komen kleuren in teksten en op de achtergrond om de juiste emotie/sfeer te tonen. Ik heb het volgende gedaan:
+- Teksten: De intro van het fragment heb ik woorden versterkt door de kleur rood om aanwijzingen te geven waar het fragment over gaat om duidelijk te geven aan de gebruiker. In het midden en eind komt de rode kleur niet meer in voor omdat aan het begin de belangrijkste informatie staat.
+- Beschrijving: Er is ook een beschrijving aanwezig en die heeft een rode kleur als lettertype met een rode schaduw zodat de gebruiker een duidelijke onderscheid kan hebben tussen de personage tekst en beschrijving.
+- Het beeld/effecten staan om het fragment heen en bevatten soms de rode kleur om de emotie/sfeer te tonen.
+
+Effecten in het fragment
+
 ---------------------------------
 
 Exclusive Design
