@@ -83,10 +83,12 @@ Feel free to adjust the defaults to your needs.
     font-weight: 200;
     display: flex;
     justify-content: center;
-    color: white;
+    color: red;
     text-align: center;
     content: "(danger sound)";
     animation: danger01 5s forwards;
+    margin-top: 0.2em;
+    text-shadow: 1px 1px 10px red, 0 0 2em red, 0 0 0.5em red;
 }
 
 @keyframes danger01 {
@@ -113,15 +115,18 @@ Feel free to adjust the defaults to your needs.
 
 /* Hieronder staan beschrijvingen van het fragment */
 .sound1 #closed-captions:after {
+    display: flex;
+    justify-content: center;
+    position: relative;
     font-family: "Brenner Mono light";
     font-style: Italic;
     font-weight: 200;
-    display: flex;
-    justify-content: center;
-    color: white;
+    color: red;
     text-align: center;
-    content: "(alarm)";
+    content: "(alarm outside)";
     animation: alarm01 9s forwards;
+    margin-top: 0em;
+    text-shadow: 1px 1px 10px red, 0 0 2em red, 0 0 0.5em red;
 }
 
 @keyframes alarm01 {
@@ -145,6 +150,10 @@ Feel free to adjust the defaults to your needs.
         opacity: 1;
     }
 
+    95% {
+        opacity: 0;
+    }
+
 
     100% {
         opacity: 0;
@@ -159,10 +168,12 @@ Feel free to adjust the defaults to your needs.
     font-weight: 200;
     display: flex;
     justify-content: center;
-    color: white;
+    color: red;
     text-align: center;
-    content: "(alarm)";
+    content: "(alarm inside)";
     animation: alarm02 24s forwards;
+    margin-top: 0.2em;
+    text-shadow: 1px 1px 10px red, 0 0 2em red, 0 0 0.5em red;
 }
 
 @keyframes alarm02 {
@@ -190,19 +201,19 @@ Feel free to adjust the defaults to your needs.
         opacity: 0%;
     }
 
-    60% {
+    58% {
         opacity: 0%;
     }
 
-    62% {
+    63% {
         opacity: 100%;
     }
 
-    67% {
+    68% {
         opacity: 100%;
     }
 
-    70% {
+    78% {
         opacity: 0%;
     }
 
@@ -222,36 +233,80 @@ Feel free to adjust the defaults to your needs.
     font-weight: 200;
     display: flex;
     justify-content: center;
-    color: white;
+    color: red;
     text-align: center;
-    content: "(danger upcoming)";
-    animation: danger02 8s forwards;
+    content: "(upcoming danger sound)";
+    animation: danger2 9s forwards;
+    text-shadow: 1px 1px 10px red, 0 0 2em red, 0 0 0.5em red;
 }
 
-@keyframes danger02 {
+@keyframes danger2 {
     0% {
         opacity: 0;
     }
 
     30% {
-        opacity: 0;
-    }
-
-    50% {
         opacity: 1;
     }
 
-    65% {
+    48% {
         opacity: 1;
     }
 
-    75% {
+    85% {
         opacity: 0;
     }
 
     100% {
         opacity: 0;
     }
+}
+
+.sound9 #closed-captions:before {
+    font-family: "Brenner Mono light";
+    font-style: Italic;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    color: red;
+    text-align: center;
+    content: "(silence)";
+    animation: silence 44s forwards;
+    margin-top: 0.2em;
+    text-shadow: 1px 1px 10px red, 0 0 2em red, 0 0 0.5em red;
+}
+
+@keyframes silence {
+    0% {
+        opacity: 0;
+    }
+
+    90% {
+        opacity: 0;
+    }
+
+    93% {
+        opacity: 0;
+    }
+
+    95% {
+        opacity: 1;
+    }
+
+    98% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.sound10 #closed-captions:before {
+    height: 100%;
+    width: 100%;
+    color: black;
+    background-color: black;
 }
 
 /* Hieronder staan beschrijvingen van het fragment */
@@ -261,10 +316,12 @@ Feel free to adjust the defaults to your needs.
     font-weight: 200;
     display: flex;
     justify-content: center;
-    color: white;
+    color: red;
     text-align: center;
     content: "(frightened sound)";
     animation: danger01 8s forwards;
+    margin-top: 0.2em;
+    text-shadow: 1px 1px 10px red, 0 0 2em red, 0 0 0.5em red;
 }
 
 /* Styling van het beeld */
@@ -317,31 +374,6 @@ Feel free to adjust the defaults to your needs.
     }
 }
 
-/*
-@keyframes sound2scale {
-    0% {
-        transform: scale(1, 1);
-    }
-
-    25% {
-        transform: scale(0.5, 0.5);
-    }
-
-    80% {
-        transform: scale(1.9, 1.9);
-    }
-
-    90% {
-        transform: scale(1.3, 1.3);
-    }
-
-    100% {
-        transform: scale(1, 1);
-    }
-}*/
-
-
-/* Styling van het beeld */
 .sound2 {
     animation: spin 1s infinite ease;
 }
@@ -352,7 +384,7 @@ Feel free to adjust the defaults to your needs.
     }
 
     90% {
-        transform: rotate(2deg);
+        transform: rotate(1deg);
     }
 
     100% {
@@ -360,23 +392,6 @@ Feel free to adjust the defaults to your needs.
     }
 }
 
-/*
-@keyframes spin {
-    0% {
-        transform: rotate(0deg);
-    }
-
-    50% {
-        transform: rotate(5deg);
-    }
-
-    100% {
-        transform: rotate(0deg);
-    }
-}*/
-
-
-/* Styling van het beeld */
 .sound3,
 .sound4 {
     animation: zoomout 4s forwards;
@@ -396,10 +411,9 @@ Feel free to adjust the defaults to your needs.
     }
 }
 
-
-/* Styling van het beeld */
 .sound5,
 .sound6 {
+    transition: 0.5 ease;
     animation: scale-1 10s;
 }
 
@@ -417,7 +431,6 @@ Feel free to adjust the defaults to your needs.
     }
 }
 
-/* Styling van het beeld */
 .sound9 {
     animation: scale 50s forwards;
 }
@@ -428,7 +441,7 @@ Feel free to adjust the defaults to your needs.
     }
 
     90% {
-        transform: scale(1.25, 1.25);
+        transform: scale(1.1, 1.1);
     }
 
     100% {
@@ -436,18 +449,30 @@ Feel free to adjust the defaults to your needs.
     }
 }
 
-/* Styling van het iframe-beeld */
 .sound8 > iframe {
     -webkit-animation: glow 10s;
     animation: color 50s, scale 50s forwards, glow 50s ease-in-out;
 }
 
+/* De glow gaat van langzaam naar snel */
 @keyframes glow {
     0% {
         box-shadow: 0 0 30px black;
     }
 
-    5% {
+    2% {
+        box-shadow: 0 0 30px black;
+    }
+
+    4% {
+        box-shadow: 0 0 30px red;
+    }
+
+    6% {
+        box-shadow: 0 0 30px black;
+    }
+
+    8% {
         box-shadow: 0 0 30px red;
     }
 
@@ -455,80 +480,152 @@ Feel free to adjust the defaults to your needs.
         box-shadow: 0 0 30px black;
     }
 
-    15% {
+    12% {
         box-shadow: 0 0 30px red;
+    }
+
+    14% {
+        box-shadow: 0 0 30px black;
+    }
+
+    16% {
+        box-shadow: 0 0 30px red;
+    }
+
+    18% {
+        box-shadow: 0 0 30px black;
     }
 
     20% {
+        box-shadow: 0 0 30px red;
+    }
+
+    22% {
         box-shadow: 0 0 30px black;
     }
 
-    25% {
+    24% {
         box-shadow: 0 0 30px red;
+    }
+
+    26% {
+        box-shadow: 0 0 30px black;
+    }
+
+    28% {
+        box-shadow: 0 0 30px red;
+    }
+
+    30% {
+        box-shadow: 0 0 30px black;
     }
 
     32% {
-        box-shadow: 0 0 30px black;
+        box-shadow: 0 0 30px red;
     }
 
     34% {
-        box-shadow: 0 0 30px red;
-    }
-
-    36% {
         box-shadow: 0 0 30px black;
     }
 
-    38% {
+    36% {
         box-shadow: 0 0 30px red;
     }
 
+    38% {
+        box-shadow: 0 0 30px black;
+    }
+
     40% {
+        box-shadow: 0 0 30px red;
+    }
+
+    41% {
         box-shadow: 0 0 30px black;
     }
 
     42% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 45px red;
+    }
+
+    43% {
+        box-shadow: 0 0 30px black;
     }
 
     44% {
+        box-shadow: 0 0 45px red;
+    }
+
+    45% {
         box-shadow: 0 0 30px black;
     }
 
     46% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 45px red;
+    }
+
+    47% {
+        box-shadow: 0 0 30px black;
     }
 
     48% {
+        box-shadow: 0 0 45px red;
+    }
+
+    49% {
         box-shadow: 0 0 30px black;
     }
 
     50% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 45px red;
+    }
+
+    51% {
+        box-shadow: 0 0 30px black;
     }
 
     52% {
+        box-shadow: 0 0 45px red;
+    }
+
+    53% {
         box-shadow: 0 0 30px black;
     }
 
     54% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 45px red;
+    }
+
+    55% {
+        box-shadow: 0 0 30px black;
     }
 
     56% {
+        box-shadow: 0 0 45px red;
+    }
+
+    57% {
         box-shadow: 0 0 30px black;
     }
 
     58% {
-        box-shadow: 0 0 20px red;
+        box-shadow: 0 0 45px red;
+    }
+
+    59% {
+        box-shadow: 0 0 30px black;
     }
 
     60% {
+        box-shadow: 0 0 45px red;
+    }
+
+    61% {
         box-shadow: 0 0 30px black;
     }
 
     62% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 45px red;
     }
 
     63% {
@@ -536,7 +633,7 @@ Feel free to adjust the defaults to your needs.
     }
 
     64% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 45px red;
     }
 
     65% {
@@ -544,7 +641,7 @@ Feel free to adjust the defaults to your needs.
     }
 
     66% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 45px red;
     }
 
     67% {
@@ -552,7 +649,7 @@ Feel free to adjust the defaults to your needs.
     }
 
     68% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 45px red;
     }
 
     69% {
@@ -560,94 +657,137 @@ Feel free to adjust the defaults to your needs.
     }
 
     70% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 45px red;
     }
 
     71% {
         box-shadow: 0 0 30px black;
     }
 
-    72% {
+    71.5% {
         box-shadow: 0 0 30px red;
+    }
+
+    72% {
+        box-shadow: 0 0 50px black;}
+
+    72.5% {
+        box-shadow: 0 0 50px red;
     }
 
     73% {
         box-shadow: 0 0 30px black;
     }
 
+    73.5% {
+        box-shadow: 0 0 50px red;
+    }
+
     74% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    74.5% {
+        box-shadow: 0 0 50px red;
     }
 
     75% {
         box-shadow: 0 0 30px black;
     }
 
+    75.5% {
+        box-shadow: 0 0 50px red;
+    }
+
     76% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    76.5% {
+        box-shadow: 0 0 50px red;
     }
 
     77% {
         box-shadow: 0 0 30px black;
     }
 
+    77.5% {
+        box-shadow: 0 0 50px red;
+    }
+
     78% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    78.5% {
+        box-shadow: 0 0 50px red;
     }
 
     79% {
         box-shadow: 0 0 30px black;
     }
 
+    79.5% {
+        box-shadow: 0 0 50px red;
+    }
+
     80% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    80.5% {
+        box-shadow: 0 0 50px red;
     }
 
     81% {
         box-shadow: 0 0 30px black;
     }
 
+    81.5% {
+        box-shadow: 0 0 50px red;
+    }
+
     82% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    82.5% {
+        box-shadow: 0 0 50px red;
     }
 
     83% {
         box-shadow: 0 0 30px black;
     }
 
+    83.5% {
+        box-shadow: 0 0 50px red;
+    }
+
     84% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    84.5% {
+        box-shadow: 0 0 50px red;
     }
 
     85% {
         box-shadow: 0 0 30px black;
     }
 
+    85.5% {
+        box-shadow: 0 0 50px red;
+    }
+
     86% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    86.5% {
+        box-shadow: 0 0 50px black;
     }
 
     87% {
-        box-shadow: 0 0 30px black;
-    }
-
-    88% {
-        box-shadow: 0 0 30px black;
-    }
-
-    89% {
-        box-shadow: 0 0 30px black;
-    }
-
-    90% {
-        box-shadow: 0 0 30px black;
-    }
-
-    95% {
-        box-shadow: 0 0 30px black;
-    }
-
-    90% {
         box-shadow: 0 0 30px black;
     }
 
@@ -669,102 +809,302 @@ Feel free to adjust the defaults to your needs.
 /* Styling van het beeld */
 .sound10 {
     color: red;
-    animation: scale 53s forwards;
+    animation: scale2 5s infinite;
+}
+
+@keyframes scale2 {
+    0% {
+        transform: scale(1, 1);
+    }
+
+    50% {
+        transform: scale(0.97, 0.97);
+    }
+
+    100% {
+        transform: scale(1, 1);
+    }
+}
+
+/* Styling van het beeld */
+.sound10 {
+    color: red;
+    animation: scalee 50s forwards;
+}
+
+@keyframes scalee {
+    0% {
+        transform: scale(1, 1);
+    }
+
+    90% {
+        transform: scale(1.18, 1.18);
+    }
+
+    100% {
+        transform: scale(1, 1);
+    }
 }
 
 /* Styling van het iframe-beeld */
 .sound10 > iframe {
     -webkit-animation: glow 10s;
-    animation: glow02 50s ease-in-out;
+  animation: glow5 50s ease-in-out;
 }
 
-@keyframes glow02 {
+/* De glow gaat van langzaam naar snel */
+@keyframes glow5 {
+
     0% {
         box-shadow: 0 0 30px black;
     }
 
+    1% {
+        box-shadow: 0 0 30px black;
+    }
+
+    2% {
+        box-shadow: 0 0 30px black;
+    }
+
+    3% {
+        box-shadow: 0 0 30px black;
+    }
+
+    4% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     5% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    6% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    7% {
+        box-shadow: 0 0 30px black;
+    }
+
+    8% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    9% {
+        box-shadow: 0 0 30px black;
     }
 
     10% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    11% {
         box-shadow: 0 0 30px black;
+    }
+
+    12% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    13% {
+        box-shadow: 0 0 30px black;
+    }
+
+    14% {
+        box-shadow: 0 0 30px darkred;
     }
 
     15% {
-        box-shadow: 0 0 30px red;
-    }
-
-    20% {
         box-shadow: 0 0 30px black;
     }
 
+    16% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    17% {
+        box-shadow: 0 0 30px black;
+    }
+
+    18% {
+        box-shadow: 0 0 20px darkred;
+    }
+
+    19% {
+        box-shadow: 0 0 30px black;
+    }
+
+    20% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    21% {
+        box-shadow: 0 0 30px black;
+    }
+
+    22% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    23% {
+        box-shadow: 0 0 30px black;
+    }
+
+    24% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     25% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    26% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    27% {
+        box-shadow: 0 0 30px black;
+    }
+
+    28% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    29% {
+        box-shadow: 0 0 30px black;
+    }
+
+    30% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    31% {
+        box-shadow: 0 0 30px black;
     }
 
     32% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    33% {
         box-shadow: 0 0 30px black;
     }
 
     34% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px darkred;
+    }
+
+    35% {
+        box-shadow: 0 0 30px black;
     }
 
     36% {
+        box-shadow: 0 0 20px darkred;
+    }
+
+    37% {
         box-shadow: 0 0 30px black;
     }
 
     38% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 20px darkred;
+    }
+
+    39% {
+        box-shadow: 0 0 30px black;
     }
 
     40% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    41% {
         box-shadow: 0 0 30px black;
     }
 
     42% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px darkred;
+    }
+
+    43% {
+        box-shadow: 0 0 30px black;
     }
 
     44% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    45% {
         box-shadow: 0 0 30px black;
     }
 
     46% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px darkred;
+    }
+
+    47% {
+        box-shadow: 0 0 30px black;
     }
 
     48% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    49% {
         box-shadow: 0 0 30px black;
     }
 
     50% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 20px darkred;
+    }
+
+    51% {
+        box-shadow: 0 0 30px black;
     }
 
     52% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    53% {
         box-shadow: 0 0 30px black;
     }
 
     54% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px darkred;
+    }
+
+    55% {
+        box-shadow: 0 0 30px black;
     }
 
     56% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    57% {
         box-shadow: 0 0 30px black;
     }
 
     58% {
-        box-shadow: 0 0 20px red;
+        box-shadow: 0 0 30px darkred;
+    }
+
+    59% {
+        box-shadow: 0 0 30px black;
     }
 
     60% {
+        box-shadow: 0 0 30px darkred;
+    }
+
+    61% {
         box-shadow: 0 0 30px black;
     }
 
     62% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 20px darkred;
     }
 
     63% {
@@ -772,7 +1112,7 @@ Feel free to adjust the defaults to your needs.
     }
 
     64% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px darkred;
     }
 
     65% {
@@ -780,7 +1120,7 @@ Feel free to adjust the defaults to your needs.
     }
 
     66% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px darkred;
     }
 
     67% {
@@ -788,102 +1128,154 @@ Feel free to adjust the defaults to your needs.
     }
 
     68% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px darkred;
     }
 
     69% {
         box-shadow: 0 0 30px black;
     }
 
+    69.5% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     70% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    70.5% {
+        box-shadow: 0 0 30px darkred;
     }
 
     71% {
         box-shadow: 0 0 30px black;
     }
 
+    71.5% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     72% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    72.5% {
+        box-shadow: 0 0 30px darkred;
     }
 
     73% {
         box-shadow: 0 0 30px black;
     }
 
+    73.5% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     74% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    74.5% {
+        box-shadow: 0 0 30px darkred;
     }
 
     75% {
         box-shadow: 0 0 30px black;
     }
 
+    75.5% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     76% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    76.5% {
+        box-shadow: 0 0 30px darkred;
     }
 
     77% {
         box-shadow: 0 0 30px black;
     }
 
+    77.5% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     78% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    78.5% {
+        box-shadow: 0 0 30px darkred;
     }
 
     79% {
         box-shadow: 0 0 30px black;
     }
 
+    79.5% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     80% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    80.5% {
+        box-shadow: 0 0 30px darkred;
     }
 
     81% {
         box-shadow: 0 0 30px black;
     }
 
+    81.5% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     82% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    82.5% {
+        box-shadow: 0 0 30px darkred;
     }
 
     83% {
         box-shadow: 0 0 30px black;
     }
 
+    83.5% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     84% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    84.5% {
+        box-shadow: 0 0 30px darkred;
     }
 
     85% {
         box-shadow: 0 0 30px black;
     }
 
+    85.5% {
+        box-shadow: 0 0 30px darkred;
+    }
+
     86% {
-        box-shadow: 0 0 30px red;
+        box-shadow: 0 0 30px black;
+    }
+
+    86.5% {
+        box-shadow: 0 0 30px black;
     }
 
     87% {
-        box-shadow: 0 0 30px black;
-    }
-
-    88% {
-        box-shadow: 0 0 30px black;
-    }
-
-    89% {
-        box-shadow: 0 0 30px black;
-    }
-
-    90% {
-        box-shadow: 0 0 30px black;
-    }
-
-    95% {
-        box-shadow: 0 0 30px black;
-    }
-
-    90% {
         box-shadow: 0 0 30px black;
     }
 
@@ -950,7 +1342,6 @@ You probably want to change the styling.
     font-family: "Brenner Mono Regular";
     font-style: normal;
     font-weight: 400;
-    animation-duration:
 }
 
 .p2.on span:first-of-type {
@@ -976,6 +1367,10 @@ You probably want to change the styling.
     text-align: center;
 }
 
+.p3.on span:nth-of-type(4) {
+    color: red;
+}
+
 .p4.on span:nth-of-type(1) {
     margin-left: 5em;
 }
@@ -995,18 +1390,18 @@ You probably want to change the styling.
 /*Fuck off*/
 .p6.on span:nth-of-type(1),
 .p6.on span:nth-of-type(2) {
-    color: red;
+    color: white;
     font-size: 1em;
     text-transform: uppercase;
     position: relative;
     top: -10em;
 }
 
-/*And dreadfully*/
-.p6.on span:nth-of-type(3) {
+.p6.on span:nth-of-type(3),
+.p6.on span:nth-of-type(4) {
     font-family: "Brenner Mono";
     font-style: Normal;
-    color: red;
+    color: white;
     font-size: 1em;
     position: relative;
     top: -10em;
@@ -1018,22 +1413,50 @@ You probably want to change the styling.
 }
 
 .p41.on {
+    font-size: 1em;
     transition: 0.2;
-    color: #A54747;
-    opacity: 50%;
+    color: red
 }
 
 .p42.on {
-    color: #D11919;
-    opacity: 75%;
-}
-
-.p43.on {
+    font-size: 1.1em;
     color: red;
 }
 
-.p66.on,
-.p68.on,
-.p77.on{
+.p43.on {
+    font-size: 1.2em;
+    color: red;
+}
+
+.p14.on,
+.p33.on,
+.p36.on,
+.p11.on,
+.p17.on,
+.p38.on {
     text-transform: uppercase;
+    font-size: 1.5em;
+    padding-top: 2em;
+}
+
+.p57.on,
+.p65.on,
+.p66.on,
+.p67.on,
+.p68.on,
+.p75.on,
+.p77.on {
+    text-transform: uppercase;
+    font-size: 2em;
+    margin-top: -6em;
+}
+
+.p69.on {
+    right: 29%;
+    margin-top: -10.5em
+}
+
+.p71.on,
+.p73.on {
+    right: 24%;
 }
