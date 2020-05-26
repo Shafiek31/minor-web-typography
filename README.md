@@ -70,9 +70,11 @@ Onderbouwing vormgeving: Aan de hand de feedback heb ik styling van bepaalde woo
 
 Op bepaalde momenten komt het fragment ingezoomd in beeld vanwege de gebeurtenis. Bijvoorbeeld dat de hoofd-personage naar de locatie gaat. Deze functie geeft aan dat het fragment op een ander locatie is. Of tijdens het praten tussen de hoofd-persoon en robot ontstaat er een spanning waarbij het beeld ook is ingezoomd.
 
-Om het fragment heen heb ik kleuren verwerkt die de sfeer versterkt om in het fragment te leven. Het fragment is spannend, dus had ik besloten om hartslag effect op de sfeer te zetten.
+Om het fragment heen heb ik omgevings-kleuren verwerkt die de sfeer versterken om in het fragment te leven. Het fragment is spannend, dus had ik besloten om hartslag(knipperend) effect op de sfeer te zetten.
 
 <img width="1663" alt="Schermafbeelding 2020-05-22 om 11 40 44 AM" src="https://user-images.githubusercontent.com/43640566/82654514-26fa1980-9c21-11ea-951c-eb7e22285ae7.png">
+<img width="1680" alt="Schermafbeelding 2020-05-26 om 10 50 43 AM" src="https://user-images.githubusercontent.com/43640566/82880664-05f63900-9f3f-11ea-947b-a80a43d5d729.png">
+<img width="1680" alt="Schermafbeelding 2020-05-26 om 10 51 02 AM" src="https://user-images.githubusercontent.com/43640566/82880675-0989c000-9f3f-11ea-9c69-ac53c1594ee8.png">
 
 
 Feedback 02 Vasilis - 19 mei 2020
@@ -94,6 +96,7 @@ Minpunten:
 - Beschrijvingen bijvoegen.
 
 Conclusie: Experimenteren op beeld is van belang. Minder experimenteren met kleur omdat die moeilijke emoties naar boven halen. De focus leg ik op de styling van het beeld en de sfeer.
+
 ----------------------------------
 
 Onderbouwing resultaat
@@ -144,6 +147,10 @@ Exclusive Design
 - Add nonense: Door 'onzin' toe te voegen aan het ontwerp komen er inzichten die je zelf niet eens had kunnen bedenken. Out of the box denken kan daar een voorbeeld voor zijn, zover mogelijk ontwerpen om inzichten te ontvangen van de gebruiker. Afgelopen weken was dat door het ontwerp meer inhoud te geven. Inhoud als in grotere letters, kleuren, dynamische uitstraling, extreme bewegingen etc. Dat had ik bij het ontwerpen van apart de kleuren van de sfeer en bewegingen in het beeld. Uiteindelijk bleek dat de kleur van de sfeer en bewegingen met elkaar kon combineren. 
 
 --------------------------------
+
+Conclusie Resultaat: Er is een groot proces ontstaan van begin tot eind die ik niet had verwacht. Ik wist zelf niet dat er zoveel gedaan kon worden met css. Een uitdaging om het ontwerp te ontwikkelen voor één gebruiker. Elke week ontstond er feedback-momenten die mij tot dit resultaat heeft gebracht. Ik ben trots hoe het is verlopen en vond het fijn om deze perspectief te leren kennen.
+
+--------------------------
 
 Bronvermelding:
 - Bestanden komen van Vasilis.
