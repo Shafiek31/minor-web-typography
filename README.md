@@ -62,7 +62,11 @@ Conclusie: Ik moet beter kijken naar de teksten en daarbij de juiste kleur-effec
 
 Week 03: In week 3 was de tweede feedback met de docent en Marie. In deze week heb ik de feedback van week 2 opgenomen en ben daarmee gegaan. Het gaat om het stylen van de woorden, het beeld en achtergrond. Hieronder staan afbeeldingen waarbij ik ging experimenteren op de kleur en beeld die emoties naar boven halen.
 
-Onderbouwing vormgeving: Aan de hand de feedback heb ik styling van bepaalde woorden weggehaald omdat het niet bij het fragments-gevoel past. Ik heb alleen aan het begin kern-woorden een rode kleur gegeven zodat de gebruiker weet waar het verhaal over gaat. Vooral aan het begin is dat van belang omdat het een intro is waar belangrijke gebeurtenissen worden toegelicht. Na de intro komen er geen kleuren meer in het fragment.
+Onderbouwing vormgeving: Aan de hand de feedback heb ik styling van bepaalde woorden weggehaald omdat het niet bij het fragments-gevoel past. Ik heb alleen aan het begin kern-woorden een rode kleur gegeven zodat de gebruiker weet waar het verhaal over gaat. Vooral aan het begin is dat van belang omdat het een intro is waar belangrijke gebeurtenissen worden toegelicht. Na de intro komen er geen kleuren meer in het fragment. Naast de rode kleur heb ik geëxperimenteerd met de blauw aqua en licht paarse kleur omdat deze in het fragment zat alleen kwam er geen emotie naar boven terwijl rood een spannend/mysterieus gevoel kan geven.
+
+<img width="1663" alt="Schermafbeelding 2020-05-22 om 11 52 47 AM" src="https://user-images.githubusercontent.com/43640566/82655645-c7047280-9c22-11ea-9aac-c1685f79e90a.png">
+<img width="1228" alt="Schermafbeelding 2020-05-26 om 10 44 21 AM" src="https://user-images.githubusercontent.com/43640566/82880127-430dfb80-9f3e-11ea-865c-431344a50c56.png">
+<img width="1228" alt="Schermafbeelding 2020-05-26 om 10 45 15 AM" src="https://user-images.githubusercontent.com/43640566/82880136-46a18280-9f3e-11ea-84fd-3a21ce455dae.png">
 
 Op bepaalde momenten komt het fragment ingezoomd in beeld vanwege de gebeurtenis. Bijvoorbeeld dat de hoofd-personage naar de locatie gaat. Deze functie geeft aan dat het fragment op een ander locatie is. Of tijdens het praten tussen de hoofd-persoon en robot ontstaat er een spanning waarbij het beeld ook is ingezoomd.
 
@@ -70,7 +74,6 @@ Om het fragment heen heb ik kleuren verwerkt die de sfeer versterkt om in het fr
 
 <img width="1663" alt="Schermafbeelding 2020-05-22 om 11 40 44 AM" src="https://user-images.githubusercontent.com/43640566/82654514-26fa1980-9c21-11ea-951c-eb7e22285ae7.png">
 
-<img width="1663" alt="Schermafbeelding 2020-05-22 om 11 52 47 AM" src="https://user-images.githubusercontent.com/43640566/82655645-c7047280-9c22-11ea-9aac-c1685f79e90a.png">
 
 Feedback 02 Vasilis - 19 mei 2020
 Vasilis vertelde dat er interessante momenten zitten vanwege de kleur en beeld. Als feedback gaf hij dat ik nogmaals naar het fragment moet luisteren en of bepaalde stylen wel juist zijn bij de momenten.
